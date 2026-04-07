@@ -24,6 +24,12 @@ dist/
 *.sublime-workspace
 *.sublime-project
 
+# Ignore all directories by default, keeping only root files
+*/
+!/*.py
+!/README.md
+!/requirements.txt
+
 # OS files
 .DS_Store
 Thumbs.db
