@@ -1,0 +1,33 @@
+Componentes de terceros incluidos
+=================================
+
+yt-dlp 2026.10.26
+  Licencia: Unlicense
+  https://github.com/yt-dlp/yt-dlp
+
+yt-dlp-ejs 0.8.0
+  Licencia: Unlicense / dominio público
+  https://github.com/yt-dlp/ejs
+
+Node.js
+  Licencias de Node.js y dependencias incluidas: ver licenses\LICENSE.
+  https://nodejs.org/
+
+FFmpeg 8.1 (ffmpeg.exe y ffprobe.exe de E:\ffmpeg)
+  Compilación full_build de Gyan; ffmpeg -L indica GNU GPL versión 3 o
+  posterior. El texto de GPL-3.0 se incluye en licenses\GPL-3.0.txt.
+  Página del distribuidor: https://www.gyan.dev/ffmpeg/builds/
+  Código fuente de FFmpeg 8.1: https://github.com/FFmpeg/FFmpeg/tree/n8.1
+
+AVISO DE REDISTRIBUCIÓN
+-----------------------
+La carpeta E:\ffmpeg solo contiene los ejecutables. No contiene el código
+fuente correspondiente completo de esta compilación estática de FFmpeg, sus
+dependencias enlazadas ni los scripts de compilación. Por tanto, este aviso no
+afirma que el código fuente enlazado arriba sea suficiente para cumplir la
+GPLv3 de esos binarios. Antes de compartir esta aplicación, debe añadirse una
+copia completa del código fuente correspondiente y los avisos requeridos, o
+un mecanismo válido para proporcionarlos conforme a la GPLv3.
+
+Esta compilación se deja en formato portátil para pruebas, pero no se debe
+tratar como lista para redistribuir hasta completar ese requisito.

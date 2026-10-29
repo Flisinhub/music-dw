@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+downloader-mp4-build/
+downloader-mp4-portable/
+pyinstaller-build/
+pyinstaller-prueba/
+ffmpeg/
+
+yt_dlp_errors.log
